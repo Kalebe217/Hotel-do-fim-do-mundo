@@ -1,4 +1,4 @@
- //var _chao = place_meeting(x, y + 1, Chao);
+  //var _chao = place_meeting(x, y + 1, Chao);
 
 
 
@@ -89,6 +89,8 @@ if (spdx !=0){
 	{
 			   sprite_index = Walking_KG_1
 			   image_xscale = sign(spdx);
+			   
+			   show_message("A")
 	}
 	
 	if (_right)
@@ -96,6 +98,7 @@ if (spdx !=0){
 		  	
 			   sprite_index = Walking_KG_1
 			   image_xscale = sign(spdx);
+			   show_message("D")
 	}
 }
 
@@ -105,11 +108,12 @@ if (spdy != 0) {
 	
 		if (_up){	
 				    sprite_index = Walking_KG_1
-			
+			show_message("W")
 				}
 				
 	    if (_down){
 				    sprite_index = Walking_KG_1
+					show_message("S")
 				  }
 		  
 		  
