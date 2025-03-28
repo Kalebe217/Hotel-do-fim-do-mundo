@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"Teste_Turnos",
+  "%Name":"Hotel do fim do mundo",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -33,7 +33,7 @@
   "MetaData":{
     "IDEVersion":"2024.11.0.179",
   },
-  "name":"Teste_Turnos",
+  "name":"Hotel do fim do mundo",
   "resources":[
     {"id":{"name":"ft_dialogo","path":"fonts/ft_dialogo/ft_dialogo.yy",},},
     {"id":{"name":"ft_menu","path":"fonts/ft_menu/ft_menu.yy",},},

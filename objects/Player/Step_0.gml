@@ -1,4 +1,4 @@
-//var _chao = place_meeting(x, y + 1, Chao);
+ //var _chao = place_meeting(x, y + 1, Chao);
 
 
 
@@ -125,6 +125,7 @@ if (spdx = 0 and spdy = 0){
 }
 
 }
+
 
 
 /*
